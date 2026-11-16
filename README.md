@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Ani 👋
 
-<!--
-**anix1865/anix1865** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at the **University of Texas at Arlington** (Honors College, Class of 2029). I like building full-stack web apps and working with data and AI.
 
-Here are some ideas to get you started:
+- 🎮 **Latest:** [Hall of FaZe](https://github.com/Sathvikramprasad/hall-of-faze), a FaZe Clan fan platform built at HackUTA 2026. I built the clip pipeline: signed uploads to cloud storage, file validation, playback and AI-assisted moderation.
+- 🔬 **Research:** started and built an AI model in PyTorch that answers high-school physics questions (86.3% accuracy), with 8 datasets of 2,000+ Q&A pairs.
+- 🌱 **Learning:** data structures and algorithms, backend systems, and machine learning.
+- 📫 **Reach me:** [LinkedIn](https://linkedin.com/in/aniruddha-anuprash) · axa7733@mavs.uta.edu
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech I use
+
+**Languages:** Python · TypeScript · JavaScript · C · Java · SQL
+**Web:** Next.js · React · Tailwind CSS · REST APIs
+**Data & AI:** PyTorch · pandas · NumPy · Jupyter · Gemini and OpenAI APIs
+**Cloud & tools:** MongoDB · Vultr Object Storage (S3) · Git · GitHub Actions · Linux
+
+## Projects
+
+| Project | What it is | Built with |
+| --- | --- | --- |
+| [Hall of FaZe](https://github.com/Sathvikramprasad/hall-of-faze) · [live](https://hall-of-faze.vercel.app) | Clip challenges, voting and FaZe history for fans (HackUTA 2026, team of 4) | Next.js, TypeScript, MongoDB, Vultr, Gemini API |
+| Physics Q&A AI model (research, BUET) | Model that answers high-school physics questions, 86.3% accuracy, team of 5 | Python, PyTorch, pandas, NumPy |
